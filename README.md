@@ -9,7 +9,9 @@ Ce projet est une application graphique (WPF) développée en C# .NET. L'applica
 Solution .slnx développée avec VS 2026 Version : 18.1.1
 
 
-
+| Livres | Utlisateurs | Catégories |
+|:---:|:---:|:---:|
+| <img src="Screenshots/1.png" width="200"> | <img src="Screenshots/2.pngg" width="200"> | <img src="Screenshots/3.png" width="200"> |
 
 
 ###### Fonctionnement : 
