@@ -11,8 +11,11 @@ Solution .slnx développée avec VS 2026 Version : 18.1.1
 
 | Livres | Utlisateurs | Catégories |
 |:---:|:---:|:---:|
-| <img src="Screenshots/1.png" width="200"> | <img src="Screenshots/2.pngg" width="200"> | <img src="Screenshots/3.png" width="200"> |
+| <img src="Screenshots/1.png" width="3000"> | <img src="Screenshots/2.png" width="3000"> | <img src="Screenshots/3.png" width="3000"> |
 
+| Emprunts | Sérialisation |
+|:---:|:---:|
+| <img src="Screenshots/4.png" width="3000"> | <img src="Screenshots/5.png" width="3000"> 
 
 ###### Fonctionnement : 
 
