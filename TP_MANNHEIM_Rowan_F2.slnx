@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Bibliotheque/Bibliotheque.csproj" />
+  <Project Path="Cryptage/Cryptage.csproj" Id="17f4aa13-282d-4647-a9a2-833eb7919c6d" />
+  <Project Path="Data/Data.csproj" Id="31c4c4fe-4b69-42a8-9856-4b2262c39645" />
+  <Project Path="Password/Password.csproj" Id="f8a9529b-1b49-4e3c-b258-5ad3f06cce80" />
+  <Project Path="Serialization/Serialization.csproj" Id="65b48446-a5eb-4c5b-8092-5eb9f6929c35" />
+</Solution>
